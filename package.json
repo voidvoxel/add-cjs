@@ -1,6 +1,6 @@
 {
   "name": "add-cjs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A hello world package for testing JavaScript package managers",
   "main": "add.js",
   "scripts": {
