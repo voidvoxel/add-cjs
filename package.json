@@ -1,0 +1,16 @@
+{
+  "name": "add-cjs",
+  "version": "0.0.0",
+  "description": "A hello world package for testing JavaScript package managers",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "commonjs"
+  ],
+  "author": "Ashlynne Juniper",
+  "license": "MPL-2.0"
+}
